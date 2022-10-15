@@ -20,7 +20,7 @@ class Slide extends StatelessWidget {
           Container(
             padding: EdgeInsets.symmetric(horizontal: 20),
             width: double.infinity,
-            color: Colors.white,
+            color: kwhite,
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
